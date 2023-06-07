@@ -1,6 +1,6 @@
 ---
 title: "Introdução à programação: Linguagens populares e como começar"
-date: "2022-09-26"
+date: "2023-06-07"
 layout: post
 ---
 
